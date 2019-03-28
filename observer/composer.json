@@ -1,0 +1,19 @@
+{
+    "name": "naciri/observer",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Nacer Nsiri",
+            "email": "nnsiri@unionkeynet.com"
+        }
+    ],
+    "autoload": {
+    	"psr-4": {
+    		"Naciri\\": ""
+    	}
+    },
+    "require": {},
+    "scripts": {
+    	"serve": "php -S localhost:8000"
+    }
+}
